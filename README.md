@@ -1,1 +1,3 @@
-# django-vue-working
+# Django Vue
+
+## See subdirs for additional readmes for api and client.
